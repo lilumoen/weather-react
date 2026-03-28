@@ -54,3 +54,7 @@ export default function WeatherSearch() {
     return form;
   }
 }
+<h2>
+  This website was built by Lill Moen and is open-sourced on{" "}
+  <a href="https://github.com/lilumoen/weather-react"></a>
+</h2>;
