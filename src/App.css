@@ -13,6 +13,12 @@
   }
 }
 
+h2 {
+  font-size: xx-small;
+  display: block;
+  size: 10px;
+  color: rgb(60, 60, 132);
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
