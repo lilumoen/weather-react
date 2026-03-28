@@ -17,7 +17,8 @@ h2 {
   display: block;
   margin: 0 auto;
   text-align: center;
-  size: 12px;
+  font-size: xx-small;
+  size: 10px;
   color: rgb(60, 60, 132);
 }
 .App-header {
